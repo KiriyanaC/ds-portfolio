@@ -1,0 +1,42 @@
+Posting 1: Data Scientist (Snr Lvl)
+- 5 Years of experience in a statistical/data science role (preferred)
+- Expertise in advanced analytical techniques such as cluster analysis, optimization, pattern recognition, descriptive stats, machine learning, segmentation analysis, etc (preferred)
+- Expertise in analytical tools and languages like Python, Matlab, R (required)
+- Experience working with large data sets and tools like Spark, Hive, Hadoop (distributed computing tools) (preferred)
+- Knowledge of industry and translating business needs into analytic solutions (preferred)
+- Communication for highly technical discussion (preferred)
+- Understanding needs of less technical stakeholders (preferred)
+- Collaboration with Data Engineers to support data modeling (preferred)
+- Leadership by developing best practices for analytics and sharing learning with peers (preferred)
+
+Posting 2: Statistician (Snr Lvl)
+- PhD degree with a major that emphasizes math, ecology, the natural sciences, statistics, or fisheries (required)
+- Extensive coursework in statistics and probability (required)
+- Specifically, knowledge in Bayesian and mark-recapture methods (preferred)
+- Six or more years of experience with the key tasks (mostly statistics)
+- Familiarity of the habitats and species managed by fisheries in the West Coast (required)
+- Strong skills in statistical modeling and data analysis (required)
+- Coding in R (required)
+- Experience with programs Stan and JAGS (required)
+- Familiarity interpreting C or C++ code (required)
+- Familiarity with Google Suite and Microsoft Office (required)
+- Verbal and written communication, specifically for writing reports and peer-reviewed articles (required)
+- Experience in open science concepts (required)
+- Strong computational skills (required)
+- Ability to manipulate large environmental datasets within command-line environments (like Linux or shell scripting) (required)
+- Managing workloads, staying organized, and having high-quality work (required)
+- Ability to work independently and within teams (collaboration) (required)
+- Ability to develop mathematical and simulation models (required)
+- Collaboration with other researchers for study design and analysis (preferred)
+
+Skills in both listings
+- At least 5 years in statistical or data science role (required)
+- Expertise in statistics
+- Knowing analytical tool/language of R (required)
+- Communication for highly technical discussion (required)
+- Working with large data sets
+- Strong computational skills
+
+What stood out to me:
+What stood out to me the most was the overlap in the need for knowing how to code in R.
+I was also surprised by how many years of experience are needed for these positions, but I didn't understand before what "senior" level meant.
